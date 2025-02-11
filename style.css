@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:red;
+}
+header {
+    background-color: #f6ba66;
+    color: #ece3e3;
+    text-align: center;
+    padding: 20px;
+    font-size: 2rem;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+form {
+    background: #f6ba66;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(241, 237, 237, 0.1);
+}
